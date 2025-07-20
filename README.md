@@ -1,10 +1,10 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aryan+Srivastava;Welcome+to+my+GitHub+Profile!;A+soon+To+Be+Developer;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aryan+Srivastava;Welcome+to+my+GitHub+Profile!;A+Developer;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)</div>
 
 ## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</div>
 
 <div align="center">
 
-- 🔭 Currently learning **Backend Technology (Express)**
+- 🔭 Currently learning **Backend Technology**
 - 💪 The most I know is **JavaScript**
 - 📫 Reach me here : **aryansrivastava354@gmail.com**
 - 💬 I think **I am easy to talk to !**
@@ -62,7 +62,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/your-username" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.39.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/codechef.png" alt="codechef" height="30" width="40" />
     <span>CodeChef</span>
   </a>
 </div>
@@ -80,7 +80,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg" alt="express" width="40" height="40"/>
+    <img align="center" src="https://img.icons8.com/ffffff/48/express-js.png" alt="express" width="40" height="40"/>
     <span>   </span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
